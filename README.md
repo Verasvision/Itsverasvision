@@ -4,7 +4,7 @@
 
 💡 I am interested in the use of artificial intelligence, especially in the fields of marketing and communication. In 2025, I completed the course „Buidling AI“ (in English) from University of Helsinki & Minnalearn.
 
-🔭 I’m currently working on KI praktisch anwenden - Step by Step zu deinem Chatbot! from KI-Campus
-⚡ Fun fact: I speak Danish
+- 🔭 I’m currently working on KI praktisch anwenden - Step by Step zu deinem Chatbot! from KI-Campus
+- ⚡ Fun fact: I speak Danish
 
 
